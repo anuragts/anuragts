@@ -1,6 +1,6 @@
 # Profile
 
-☕Hey there my name is Anurag Sharma 
+☕Hey there my name is Anurag Sharma <br>
 📖I am  a student/software developer from India. 🇮🇳
 
 🌇Currently I code in Python ,HTML ,CSS and Javascript.
