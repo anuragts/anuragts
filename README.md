@@ -4,7 +4,7 @@
 <h1>☕Hey there my name is Anurag Sharma <br></h1>
 <h3>📖I am  a student/opensource contributer/mentor from India. 🇮🇳<br><h3>
 <h3>🌇Currently I code in Python ,HTML ,CSS and Javascript.<br><h3>
-<h3>🥇I am also doing competative coding with Python.<h3>
+
 
 
   <h3><strong>🌝Here is my Portfolio website</strong></h3>
