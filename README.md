@@ -9,4 +9,4 @@
 
   <h3><strong>🌝Here is my Portfolio website</strong></h3>
 
-  <h3>https://anurag30112003.github.io/Portfolio.github.io/</h3>
+  <h3>https://anuragdev.netlify.app/</h3>
