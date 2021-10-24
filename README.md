@@ -1,12 +1,13 @@
+## 🚀 About Me
+I'm a full stack developer... and a tech student from India 🇮🇳 
 
-# Profile
-<img src="https://user-images.githubusercontent.com/79055093/119657274-51407180-be49-11eb-913b-48cad0468a70.jpg" alt="alt text" width="450" height="300">
-<h1>☕Hey there my name is Anurag Sharma <br></h1>
-<h3>📖I am  a student/opensource contributer/mentor from India. 🇮🇳<br><h3>
-<h3>🌇Currently I code in Python ,HTML ,CSS and Javascript.<br><h3>
+  
+## 🛠 Skills
+Javascript, HTML, CSS....  
+Python and its frameworks
 
-
-
-  <h3><strong>🌝Here is my Portfolio website</strong></h3>
-
-  <h3>https://anuragdev.netlify.app/</h3>
+  
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://anuragdev.netlify.app/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theanuragdev)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-sharma-bb2684207/)
