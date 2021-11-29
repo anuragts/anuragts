@@ -3,7 +3,7 @@ I'm a full stack developer... and a tech student from India 🇮🇳
 
   
 ## 🛠 Skills
-Javascript, HTML, CSS....  
+Javascript,Typescript,Tailwindcss, HTML, CSS....  
 Python and its frameworks
 
   
