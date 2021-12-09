@@ -1,7 +1,7 @@
 ## 🚀 About Me
 I'm a full stack developer... and a tech student from India 🇮🇳 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag30112003&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag30112003&show_icons=true&theme=onedark)
 <img alt="Anurag Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag30112003&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
   
