@@ -4,10 +4,12 @@
  <h2 align="center">I am Full-Stack-Developer and SaaS Builder.</h2>
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m interested in  **SaaS , Startup , BlockChain , Web3 , DevRel**
+- 🌱 I’m interested in  **SaaS , Startup , BlockChain , Web3 , DevRel**!
+
 - ⚡ Love to Collaborate 
 
-  
+
+ 
 ##  Languages
  <a  href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
  <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
@@ -18,6 +20,9 @@
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flask.png"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/office/48/000000/react.png"/> </a>
+<a href="https://tailwindcss.com//" target="_blank"> <img height="48" src="https://user-images.githubusercontent.com/79055093/145392357-0d5ac484-b89b-470d-a946-6b458c6d4f87.png"/> </a> 
+
+
 
 ## Database 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
