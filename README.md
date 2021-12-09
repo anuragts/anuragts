@@ -3,8 +3,7 @@ I'm a full stack developer... and a tech student from India 🇮🇳
 
   
 ## 🛠 Skills
-Javascript,Typescript,Tailwindcss, HTML, CSS....  
-Python and its frameworks
+Languages - Flask (https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg)
 
   
 ## 🔗 Links
