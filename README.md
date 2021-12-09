@@ -14,7 +14,8 @@
  <a  href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
  <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
-<a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png"/> </a> 
+<a href="https://www.cplusplus.com/" target="_blank"><img height="48" src="https://user-images.githubusercontent.com/79055093/145393509-e86b027c-427f-4b5c-9a25-9ccea2b730a5.png"/> </a> 
+
 
 ## Frameworks
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flask.png"/> </a>
