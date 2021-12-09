@@ -1,10 +1,12 @@
 ## 🚀 About Me
 I'm a full stack developer... and a tech student from India 🇮🇳 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/apiAnurag30112003=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag30112003)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Anurag Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag30112003&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+
   
 ## 🛠 Skills
-Languages - Flask (https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg/)
+
 
   
 ## 🔗 Links
