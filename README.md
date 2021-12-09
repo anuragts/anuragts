@@ -19,6 +19,8 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
+
 
 
 
