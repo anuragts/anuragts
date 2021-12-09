@@ -4,22 +4,22 @@
   
 ## Languages
  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
- <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png"/> </a>
+ <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
+<a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png"/> </a>
 ## Frameworks
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flask.png"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/office/48/000000/react.png"/> </a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flask.png"/> </a>
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/office/48/000000/react.png"/> </a>
 
 ## Database 
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql.png"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql.png"/> </a>
 ## Tools
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
+<a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>
+<a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
 
 
 
