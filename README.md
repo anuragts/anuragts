@@ -1,7 +1,7 @@
 
 <div align ="center"><img  height="300px" src= "https://user-images.githubusercontent.com/79055093/145391850-521e0ea0-df98-478b-9671-90be290b5ba9.png"> </div>
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Anurag </h1>
- <h2 align="center">I am Full-Stack-Developer and SaaS Builder.</h2>
+ <h2 align="center">I am Full-Stack-Developer and web3 enthusiast.</h2>
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m interested in  **SaaS , Startup , BlockChain , Web3 , DevRel**!
