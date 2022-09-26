@@ -16,6 +16,9 @@
     
 ## 🚀 Stats
 
+[![Anurag's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anurag30112003&theme=xcode)](https://github.com/Anurag30112003)
+
+
 [![@theanuragdev's Holopin board](https://holopin.io/api/user/board?user=theanuragdev)](https://holopin.io/@theanuragdev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag30112003&show_icons=true&theme=onedark)
