@@ -2,7 +2,7 @@
     <h1>Hi, I'm Anurag 👋</h1>
     <h3>I am full stack developer 🚀 </h3>
     <br>
-    <h3>Tech Stack</h3> 
+## 💻 Tech Stack
     <div style=" display: flex;
     flex-direction: column; ">
     <br>
