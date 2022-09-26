@@ -1,14 +1,17 @@
 <div align="center">
     <h1>Hi, I'm Anurag 👋</h1>
     <h3>I am full stack developer 🚀 </h3>
+    <br>
     <h3>Tech Stack</h3> 
-    <div style=" display: column;
+    <div style=" display: flex;
     flex-direction: column; ">
+    <br>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/>  </a>
     <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>  </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img height="48" src="https://user-images.githubusercontent.com/79055093/145392357-0d5ac484-b89b-470d-a946-6b458c6d4f87.png"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img height="48" src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
      </div>
+     <br>
 </div>
       
 
