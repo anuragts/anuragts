@@ -7,6 +7,7 @@
     
 <div style=" display: flex; flex-direction: column; ">
 <br>
+![](https://visitor-badge.glitch.me/badge?page_id=Anurag30112003.Anurag30112003)  <br> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/>  </a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>  </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img height="48" src="https://user-images.githubusercontent.com/79055093/145392357-0d5ac484-b89b-470d-a946-6b458c6d4f87.png"/> </a>
