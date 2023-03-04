@@ -7,7 +7,7 @@ I create and break things on and for internet.
 
 ![GitHub followers](https://img.shields.io/github/followers/anuragts?style=social)
 
-![Website] (https://img.shields.io/badge/site-anuragdev-orange?link=https://anuragdev.me&link=https://anuragdev.me)
+![Website](https://img.shields.io/badge/site-anuragdev-orange?link=https://anuragdev.me&link=https://anuragdev.me)
 
 Mostly uses - 
 
