@@ -15,4 +15,4 @@ Mostly uses -
 
 ---
 
-fan of - @vercel and @geohot
+fan of - [@vercel](https://github.com/vercel/vercel) and [@geohot](https://github.com/geohot)
