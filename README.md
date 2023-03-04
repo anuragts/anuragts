@@ -3,8 +3,11 @@
 
 I create and break things on and for internet. 
 
-<a href="https://twitter.com/t3dotgg"><img src="https://img.shields.io/twitter/follow/t3dotgg?label=Twitter&style=social" alt="Twitter"></a>
+![Twitter Follow](https://img.shields.io/twitter/follow/theanuragdev?style=social)
 
+![GitHub followers](https://img.shields.io/github/followers/anuragts?style=social)
+
+![Website] (https://img.shields.io/badge/site-anuragdev-orange?link=https://anuragdev.me&link=https://anuragdev.me)
 
 Mostly uses - 
 
