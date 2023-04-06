@@ -1,5 +1,5 @@
 
-## Hey!! , I am Anurag
+## Hey!! , 🥰
 
 I create and break things on and for internet. 
 
@@ -7,7 +7,7 @@ I create and break things on and for internet.
 <a href="https://github.com/anuragts"> <img src="https://img.shields.io/github/followers/anuragts?style=social"> </a>
 <a href="https://anuragdev.me"> <img src="https://img.shields.io/badge/site-anuragdev-orange"> </a>
 
-Mostly uses - 
+My gear for wizardry - 
 
 - nextjs
 - typescript
