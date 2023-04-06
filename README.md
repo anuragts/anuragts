@@ -13,6 +13,8 @@ Mostly uses -
 - typescript
 - python
 - rust
+- prisma
+- postgresql
 
 ---
 
