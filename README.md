@@ -11,7 +11,8 @@ My gear for wizardry -
 
 - nextjs
 - typescript
-- prisma
+- trpc
+- drizzle
 - postgresql
 
 ---
