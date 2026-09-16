@@ -14,4 +14,4 @@ Most of my side projects come out of problems I hit while doing that work.
 
 Before those there was [tangerine](https://github.com/anuragts/tangerine), an in-memory vector database written in Java, and [tokenmaxxing](https://github.com/anuragts/tokenmaxxing), a native iPhone app and widget set for tracking Codex and Claude usage limits.
 
-I write about what I'm building at [anrg.lol](https://anrg.lol).
+I write about what I'm building at [anrg.fyi](https://anrg.fyi).
